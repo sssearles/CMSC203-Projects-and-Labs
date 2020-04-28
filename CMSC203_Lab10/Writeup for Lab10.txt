@@ -1,0 +1,14 @@
+Writeup for Lab 10:
+
+Task 2--
+The domain of function 3 does not include any negative values 
+because this makes the sqrt() function undefined. It does not 
+include the value at approximately x = 0.4834139 because this 
+is where the graph of f3 goes to negative infinity when 
+approaching from the left and positive infinity when approaching 
+from the right. I couldn't approximate this any closer than 
+"between 0 and 1" using the GUI, so I used the TI-84.
+
+Task 3--
+This function oscillates with increasing intensity as it approaches
+0, therefore the limit does not exist at x = 0. 
